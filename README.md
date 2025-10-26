@@ -55,3 +55,17 @@ It’s a lightweight and responsive app that fetches movie data from an API and 
    ```bash
    git clone https://github.com/Gozde03/search-movie.git
    cd search-movie
+   Install dependencies : npm install
+   Run the development server: npm run dev
+   Open in browser: http://localhost:5173
+   
+---
+
+   ## 👩‍💻 Author
+
+**Developed by:** [ Gözde Şavkın ](https://github.com/Gozde03) 
+
+ *Built as a no-code data visualization project combining design, analytics, and creativity.*
+
+---
+```
