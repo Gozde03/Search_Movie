@@ -50,14 +50,13 @@ It’s a lightweight and responsive app that fetches movie data from an API and 
 ---
 
 ## ⚙️ Installation & Setup
-
 1. **Clone the repository**
    ```bash
-  git clone https: //github.com/Gozde03/search-movie.git
-  cd search-movie
-  npm install
-  npm run dev
-
+   git clone https://github.com/Gozde03/search-movie.git
+   cd search-movie
+   npm install
+   npm run dev
+   
 Open in browser: http://localhost:5173
 
 
