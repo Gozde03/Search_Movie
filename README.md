@@ -40,9 +40,12 @@ It’s a lightweight and responsive app that fetches movie data from an API and 
 
 ## 🖼️ Screenshots
 
-| Home Page | Movie Detail Page |
-|------------|------------------|
-| ![Home](https://via.placeholder.com/400x250?text=Home+Page) | ![Detail](https://via.placeholder.com/400x250?text=Movie+Detail) |
+| Main Page | Results Page |
+|------------|--------------|
+| ![Main Page](mainPage.png) | ![Results Page](results.png) |
+
+> 🖥️ The main page shows trending or recent movies.  
+> 🎞️ The results page displays search results dynamically as you type.
 
 ---
 
