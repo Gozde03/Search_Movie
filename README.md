@@ -44,9 +44,6 @@ It’s a lightweight and responsive app that fetches movie data from an API and 
 |------------|--------------|
 | ![Main Page](mainPage.png) | ![Results Page](results.png) |
 
-> 🖥️ The main page shows trending or recent movies.  
-> 🎞️ The results page displays search results dynamically as you type.
-
 ---
 
 ## ⚙️ Installation & Setup
