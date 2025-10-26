@@ -58,7 +58,7 @@ It’s a lightweight and responsive app that fetches movie data from an API and 
    npm run dev
    
 Open in browser: http://localhost:5173
-
+```
 
    
 ---
@@ -70,4 +70,11 @@ Open in browser: http://localhost:5173
  *Built as a front-end learning project focused on movie API integration, responsive UI, and clean component design.*
 
 ---
-```
+
+## 🪪 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and share with attribution.
+
+---
+
+
